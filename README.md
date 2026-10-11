@@ -19,9 +19,11 @@ Script features:
 - Makes the registry key changes required to nuke defender while in safe mode
 - Restarts machine back into normal mode
 
-Tested and confirmed fully working on **Windows 11 Version 24H2 Build 26100.34**
-Tested and confirmed fully working on **Windows 11 Version 24H2 Build 26100.3476**
-Tested and confirmed fully working on **Windows 11 Version 25H2 Build 26200.9457**
+Tested and confirmed fully working on:
+
+- **Windows 11 Version 24H2 Build 26100.34**
+- **Windows 11 Version 24H2 Build 26100.3476**
+- **Windows 11 Version 25H2 Build 26200.9457**
 
 To run it simply download and run **DefenderNuke.vbs** and follow the prompts.
 
